@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733185750 source:c:\users\isabella braga\desktop\faculdade\projeto dkr\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+
