@@ -1,2 +1,2 @@
-# Projetos-ADS-IF
-Projetos da faculdade
+# Projeto-ADS-IF
+Projeto da faculdade
