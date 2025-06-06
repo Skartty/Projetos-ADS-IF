@@ -1,2 +1,2 @@
-# Projeto-ADS-IF
-Projeto da faculdade
+# Projeto-DeliQuicker
+Projeto da faculdade 1Semestre ultilizando a linguagem C.
